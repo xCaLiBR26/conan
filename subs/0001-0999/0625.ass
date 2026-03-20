@@ -36,7 +36,7 @@ Style: Farewell Card,Calibri,70,&H14DAEFEB,&H000000FF,&H46101010,&H641B1B1B,-1,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:01:56.40,0:02:01.99,Signs,,0,0,0,,THE SCREAMING OPERATION ROOM\N(PART ONE)
+Dialogue: 0,0:01:56.40,0:02:01.99,Signs,,0,0,0,,"The Screaming Operation Room(Part 1)"
 Dialogue: 0,0:02:03.16,0:02:09.62,Dialogue,,0,0,0,,The Light Music Club concert starts at 3:00 PM!
 Dialogue: 0,0:02:03.16,0:02:09.62,Dialogue,,0,0,0,,Mountaineering Club Special...
 Dialogue: 0,0:02:11.84,0:02:14.38,Dialogue,,0,0,0,,Mountain hut style fried noodles, try some!
